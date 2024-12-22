@@ -1,6 +1,3 @@
-
-
-### Hey Dear  
 <div align="center">
 <img src="https://github.com/arpitjain-1/static-logo/blob/main/logo.jpg" align="center" style="width: 25%; height: 20%" />
 </div>  
