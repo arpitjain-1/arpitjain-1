@@ -6,13 +6,13 @@
 ### <div align="center">I'm Arpit, fullstack Ruby on Rails developer👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Civic Complaint Portal](https://github.com/arpitjain-1)  
+- 🔭 I’m currently working on [Peronal Finance Manager](https://github.com/arpitjain-1)  
   
 
-- 🌱 I’m currently learning DevOps from scratch  
+- 🌱 I’m currently learning Ansible and AWS
   
 
-- ❓ Ask me about anything related to Node.js, Ruby on Rails and GSAP  
+- ❓ Ask me about anything related to Node.js, Ruby on Rails, CI/CD, Teraform, Docker, AWS
   
 
 - ⚡ Fun fact: I use project based approach to learn anything  
